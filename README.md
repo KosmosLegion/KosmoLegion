@@ -1,2 +1,0 @@
-# KosmoLegion
-Página de practica
